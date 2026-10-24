@@ -1,0 +1,31 @@
+{
+  "14d993ec-9c43-4da6-8eff-ec48236e78f3": {
+    "auth_token": "14d993ec-9c43-4da6-8eff-ec48236e78f3",
+    "type": "deposit",
+    "merchant_token": "7f8b9e1d2c3a4f5b6e7d8c9a0b1c2d3e",
+    "merchant_name": "Asia Gaming Store",
+    "domain": "asiagaming.com",
+    "amount": 50000,
+    "phone_number": "9971234567",
+    "created_at": 1792818573225,
+    "expires_at": 1792819473225,
+    "status": "success",
+    "trx_id": "20261023006148",
+    "verified_at": 1792818580825
+  },
+  "wd_6db77d7552755efd76803217afb7ad98": {
+    "withdraw_token": "wd_6db77d7552755efd76803217afb7ad98",
+    "type": "withdraw",
+    "merchant_token": "7f8b9e1d2c3a4f5b6e7d8c9a0b1c2d3e",
+    "merchant_name": "Asia Gaming Store",
+    "amount": 25000,
+    "phone": "09798765432",
+    "created_at": 1792818589837,
+    "expires_at": 1792818889837,
+    "status": "executed",
+    "executed_from": "9971234567",
+    "receiver": "09798765432",
+    "executed_at": 1792818596934,
+    "trx_id": "WD2818596934"
+  }
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "merchant_name": "Asia Gaming Store",
+    "domain": "asiagaming.com",
+    "token": "7f8b9e1d2c3a4f5b6e7d8c9a0b1c2d3e",
+    "created_at": "2026-10-20T10:00:00Z",
+    "active": true
+  },
+  {
+    "merchant_name": "Yangon Digital Hub",
+    "domain": "localhost",
+    "token": "a1b2c3d4e5f60718293a4b5c6d7e8f90",
+    "created_at": "2026-10-22T14:30:00Z",
+    "active": true
+  }
+]

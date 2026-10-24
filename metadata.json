@@ -1,0 +1,6 @@
+{
+  "name": "Wave Money API Gateway & Telegram Bot",
+  "description": "Full-stack Wave Money Payment Gateway with Flask API, Telegram Admin Bot, Cloudflare bypass, merchant tokens, OCR verification, and interactive merchant dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

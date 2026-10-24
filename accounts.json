@@ -1,0 +1,22 @@
+[
+  {
+    "phone": "9798765432",
+    "device_id": "a4f89d3c10b7e28a509421de387b92cc45fa01ee",
+    "model": "Pixel 7 Pro",
+    "os_version": "14",
+    "wmt_mfs": "wmt_token_demo_session_active_01",
+    "pin": "123456",
+    "balance": 250000,
+    "name": "U Thant Zin"
+  },
+  {
+    "phone": "9971234567",
+    "device_id": "e7b12d8a40c9f31b608312ea298c81dd34eb92ff",
+    "model": "SM-S918B",
+    "os_version": "13",
+    "wmt_mfs": "wmt_token_demo_session_active_02",
+    "pin": "654321",
+    "balance": 605000,
+    "name": "Daw Khin Myat"
+  }
+]
